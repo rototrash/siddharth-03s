@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python, C++ and OpenGL
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 Reach me on Discord: **rototrash#0300**
-- Make 3D renders in my free time
+- I make 3D renders in my free time (Blender)
