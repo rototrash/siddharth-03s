@@ -2,4 +2,4 @@
 - 👀 I’m interested in graphics, Linux, computers, computers and computers
 - 🌱 I’m currently learning Python, C++ and OpenGL
 - 💞️ I’m looking to collaborate on nothing for now
-- 📫 Reach me on Discord: **rototrash#0300**
+- 📫 Reach me on Discord: **fstab#0300**
