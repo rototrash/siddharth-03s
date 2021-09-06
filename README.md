@@ -1,4 +1,4 @@
 - Hi, I’m @siddharth-03s
-- I’m interested in graphics, Linux, computers.
-- I’m currently learning Python, C++ and OpenGL
+- I mostly enjoy Computer graphics and I love Linux
+- I’m currently learning OpenGL API with C++
 - My Discord: **vim#0300**
