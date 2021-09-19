@@ -1,4 +1,4 @@
 - Hi, I’m @siddharth-03s
 - I mostly enjoy Computer graphics and I love Linux
 - I’m currently learning OpenGL API with C++
-- My Discord: **morallygrey#1667**
+- My Discord: **rototrash#1667**
