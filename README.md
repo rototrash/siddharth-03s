@@ -9,5 +9,5 @@ Learning: C++, OpenGL
 Editor: NvChad, VSCodium
 Tools: GIMP, Blender, Kdenlive
 Hobbies:  Music, Programming, Art 
-Discord: rototrash#9000
+Discord: rototrash#0900
 ```
