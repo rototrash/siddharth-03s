@@ -4,7 +4,7 @@ rototrash@github
 OS: ArcoLinux x86_64
 WM: i3
 Shell: zsh 5.8
-Languages: C++, Python
+Languages: C++, Python, HTML, CSS, JS
 Learning: C++, OpenGL
 Editor: NvChad, VSCodium
 Tools: GIMP, Blender, Kdenlive
