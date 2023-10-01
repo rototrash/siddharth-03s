@@ -1,13 +1,4 @@
-```csharp
-rototrash@github
--------------------------
-OS: ArcoLinux x86_64
-WM: i3
-Shell: zsh 5.8
-Languages: C++, Python, HTML, CSS, JS
-Learning: C++, OpenGL
-Editor: NvChad, VSCodium
-Tools: GIMP, Blender, Kdenlive
-Hobbies:  Music, Programming, Art 
-Discord: rototrash#0900
-```
+- Hello I'm **Siddharth**.
+- I am a Computer Engineering Undergraduate at International Institute of Information Technology, Pune.
+- I take interest in Programming, Computer Hardware, Computer Graphics, Linux, Maths and Art.
+- I play around in Blender and do a bit of Competitive Programming in my free time.
