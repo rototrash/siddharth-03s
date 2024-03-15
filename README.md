@@ -1,4 +1,3 @@
-- Hello I'm **Siddharth**.
-- I am a Computer Engineering Undergraduate at International Institute of Information Technology, Pune.
-- I take interest in Programming, Computer Hardware, Computer Graphics, Linux, Maths and Art.
-- I play around in Blender and do a bit of Competitive Programming in my free time.
+- Hello, I'm **Siddharth**.
+- Computer Engg Undergrad
+- Take interest in Programming, Computer Hardware, Computer Graphics, Linux, Maths and Art.
